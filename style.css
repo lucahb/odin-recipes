@@ -11,3 +11,8 @@ h1 {
   color: rgb(42, 101, 165);
 }
 
+.pic{
+  height: auto;
+  width: 180px;
+}
+

@@ -12,7 +12,7 @@ h1 {
 }
 
 .pic{
-  height: auto;
-  width: 180px;
+  height: fit-content;
+  width: fit-content;
 }
 

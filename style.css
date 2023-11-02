@@ -5,13 +5,17 @@ body {
 
 h1 {
   font-family:fantasy;
+  margin: 10px;
 }
 
 .link {
   color: rgb(42, 101, 165);
+  padding: 8px;
+  margin: 15px;
 }
 
 .pic{
   height: fit-content;
   width: fit-content;
+  margin: 25px;
 }
